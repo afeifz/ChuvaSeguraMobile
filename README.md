@@ -14,7 +14,7 @@
 | **Problema, em uma frase** | Moradores de áreas que alagam recebem o aviso de chuva forte tarde demais, ou de forma genérica demais, para proteger a família e seus bens |
 | **Como funciona** | Um sensor mede o nível da água num ponto crítico; um modelo de ML estima a chance de chuva forte; a API combina os dois e envia alertas ao app do morador, que também registra ocorrências |
 | **O que cada parte faz** | IoT (ESP32/Wokwi), API C#, API Java, Machine Learning, Expo, Linux, Cybersecurity e QA |
-| **Link do repositório** | [COLAR LINK] |
+| **Link do repositório** | https://github.com/afeifz/ChuvaSeguraMobile.git|
 | **Indicador de impacto** | Minutos de antecedência entre o alerta e o nível crítico; % de chuvas fortes detectadas pelo modelo |
 | **ODS conectados** | 11, 13, 9 e 10 |
 
