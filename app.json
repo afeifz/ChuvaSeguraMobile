@@ -8,9 +8,11 @@
     "scheme": "chuvasegura",
     "userInterfaceStyle": "light",
     "ios": {
+      "bundleIdentifier": "com.mohamed.chuvasegura",
       "icon": "./assets/expo.icon"
     },
     "android": {
+      "package": "com.mohamed.chuvasegura",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
